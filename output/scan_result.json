@@ -1,0 +1,57 @@
+{
+    "port_range": {
+        "end": 80,
+        "start": 70,
+        "total_scanned": 11
+    },
+    "results": {
+        "tcp4": {
+            "closed": [],
+            "open": [],
+            "uncertain": []
+        },
+        "tcp6": {
+            "closed": [
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79
+            ],
+            "open": [
+                80
+            ],
+            "uncertain": []
+        },
+        "udp4": {
+            "closed": [],
+            "open": [],
+            "uncertain": []
+        },
+        "udp6": {
+            "closed": [],
+            "open": [],
+            "uncertain": [
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80
+            ]
+        }
+    },
+    "scan_date": "2025-06-29 09:54",
+    "scanner_ip": "172.20.10.2",
+    "target_ip": "2a00:1450:4025:401::65"
+}
