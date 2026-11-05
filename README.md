@@ -96,8 +96,8 @@ source venv/bin/activate
 
 ## 🔧 Installation
 ```bash
-git clone https://github.com/seuusuario/portscannerx.git
-cd portscannerx
+git clone https://github.com/karolramoscyber/Port_scanner.git
+cd Port_scanner
 pip install -r requirements.txt
 ```
 
